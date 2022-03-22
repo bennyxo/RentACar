@@ -1,8 +1,6 @@
 # RentACar
-Simple WPF Car Rental Booker
----
-Links to a local database to save booking details
----
+Simple WPF Car Rental Booker that links to a local database to save booking details
+
 # To Do / Would like to implement
 - View Bookings
 - Cancel Bookings
